@@ -1,5 +1,5 @@
 import axios from "axios";
-import React, { useState } from "react";
+import React from "react";
 import { BiPowerOff } from "react-icons/bi";
 import { useNavigate } from "react-router-dom";
 import { logoutRoute } from "../utils/APIRoutes";
