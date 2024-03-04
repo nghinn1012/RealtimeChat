@@ -6,7 +6,7 @@ Smuppy là một ứng dụng trò chuyện trực tuyến thời gian thực.
 
 **Client:** React, axios, TailwindCSS
 
-**Server:** Node, Express, Socket.io
+**Server:** Node, Express, Socket.io, jwt
 
 **Database:** MongoDB
 
